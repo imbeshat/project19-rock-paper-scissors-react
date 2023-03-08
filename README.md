@@ -9,4 +9,4 @@ A simple React project for the game Rock, Papers, Scissors
 - Run the application using `npm start`
 
 ### Deployed Link - https://rock-paper-react.netlify.app/
-![image](https://user-images.githubusercontent.com/48837703/223077796-c155079a-02da-4cb9-93f4-115907ae7169.png)
+![image](https://user-images.githubusercontent.com/48837703/223825973-c007e1f6-d5de-4d13-b377-72579c721eda.png)
